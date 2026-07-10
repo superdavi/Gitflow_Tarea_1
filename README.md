@@ -41,6 +41,7 @@ La solución demuestra buenas prácticas de control de versiones, separación fu
 
 ## 📇Tecnologías Utilizadas
 
+![GitFlow](https://img.shields.io/badge/GitFlow-Workflow-blue)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 | Tecnología | Uso |

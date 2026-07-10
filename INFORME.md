@@ -1,6 +1,7 @@
 # Informe - Actividad No. 1 Gitflow con Streamlit
 <p align="center">
-
+    
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![GitFlow](https://img.shields.io/badge/GitFlow-Workflow-blue)
 </p>
 
@@ -44,12 +45,12 @@ gitGraph
     checkout develop
     commit id: "Desarrollo"
 
-    branch feature/laboratorio
-    checkout feature/laboratorio
+    branch feature/validaciones
+    checkout feature/validaciones
     commit id: "feat: funciones para validar archivo"
 
     checkout develop
-    merge feature/laboratorio
+    merge feature/validaciones
     commit id: "Integración 1"
 
     branch feature/app-streamlit
